@@ -1,5 +1,10 @@
 # Tremor analysis
 MATLAB script for analysis of tremor behavior in mice 
+---
+
+Dysfunction of parvalbumin neurons in the cerebellar nuclei produces an action tremor
+Mu Zhou, Maxwell D. Melin, Wei Xu, and Thomas C. Südhof
+The Journal of Clinical Investigation
 
 ___
 -- Please use Matlab 2015b or newer versions. The codes have been tested with Matlab 2015b.
